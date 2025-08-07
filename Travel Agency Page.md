@@ -1,5 +1,5 @@
 # HTML
-Build Travel Agency
+Build Travel Agency  Page
 <!DOCTYPE html>
   <html lang="en">
     <head>
@@ -17,24 +17,31 @@ Build Travel Agency
   <p>Travel packages bundle services like flights, hotels, and tours into one price, offering options like all-inclusive, adventure, luxury, or cultural experiences.</p>
 
   <ul>
-    <li> <a href="https://traveldestinations/grouptravel.com">Group Travels </a> </li>
-    <li> <a href="https://traveldestinations/privatetravels.com">Private Tours</a></li>
+    <li> <a target="_blank" href="https://www.freecodecamp.org/learn">Group Travels </a> </li>
+    <li> <a target="_blank" href="https://www.freecodecamp.org/learn">Private Tours</a></li>
   </ul>
   <h2>Top Itineraries</h2>
   
   <figure>
-    <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Italy"/>
-     <figcaption>Colosseum in Rome</figcaption>
+    <a target="_blank" href="https://www.freecodecamp.org/learn">
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Italy"/>
+    </a>
+    <figcaption>Colosseum in Rome</figcaption>
+</figure>
+
+  <figure>
+    <a target="_blank" href="https://www.freecodecamp.org/learn">
+         <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Dolomites">
+      </a>
+      <figcaption>Dolomites in Italy</figcaption>
   </figure>
 
   <figure>
-    <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Dolomites">
-     <figcaption>Dolomites in Italy</figcaption>
-  </figure>
-
-  <figure>
+    <a target="_blank" href="https://www.freecodecamp.org/learn">
     <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Sicily">
-    <figcaption>Favignana Resort in Sicily</figcaption>
+    </a>
+        <figcaption>Favignana Resort in Sicily</figcaption>
+
   </figure>
 
   </body>
