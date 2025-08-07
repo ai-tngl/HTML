@@ -21,15 +21,17 @@ Build Travel Agency
     <li> <a href="https://traveldestinations/privatetravels.com">Private Tours</a></li>
   </ul>
   <h2>Top Itineraries</h2>
-
+  
   <figure>
     <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Italy"/>
      <figcaption>Colosseum in Rome</figcaption>
   </figure>
+
   <figure>
     <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Dolomites">
      <figcaption>Dolomites in Italy</figcaption>
   </figure>
+
   <figure>
     <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Sicily">
     <figcaption>Favignana Resort in Sicily</figcaption>
