@@ -24,7 +24,6 @@ Build Travel Agency
   
   <figure>
     <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Italy"/>
-  
      <figcaption>Colosseum in Rome</figcaption>
   </figure>
 
