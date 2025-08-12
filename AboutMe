@@ -38,8 +38,51 @@
        <p>tiktok: aisle_xn</p>
        </em>
     </ul>
+    <footer>
+        <strong>Ailyn May-</strong> <em>All rights reserved.</em> 
+    </footer>
 
-    <footer>Ailyn May Tongol- All rights reserved.</footer>
+    <hr>
+    <h3>My Favorite Worship Songs</h3>
+    <table
+        <tr>
+            <th>Title</th>
+            <th>Singer/Artist</th>
+            <th>Year Released</th>
+            <th>YT link</th>
+        </tr>
+        <tr>
+            <td>Always On Time</td>
+            <td>Elevation Worship</td>
+            <td>2024</td>
+            <td><a href="https://youtube.com/embed/H1L6zv_ilzY?si=YvgKgGll7PMQa-pZ">Watch here</a></td>
+        </tr>
+        <tr>
+            <td>Been So Good</td>
+            <td>Elevation Worship</td>
+            <td>2023</td>
+            <td><a href="https://youtube.com/embed/D3yMC_qoAes?si=R5ABsdLBDjue4Nw-">Watch here</a></td>
+        </tr>
+        <tr>
+            <td>Constant</td>
+            <td>Maverick City</td>
+            <td>2024</td>
+            <td><a href="https://youtube.com/embed/MM3E18VuLiI?si=2Ydia0Fh2WjWGCQI">Watch here</a></td>
+        </tr>
+        <tr>
+            <td>Who Else</td>
+            <td>Gateway Worship</td>
+            <td>2024</td>
+            <td><a href="https://youtube.com/embed/oujEfZie7jg?si=BkJF0EodI4mcsptf">Watch here</a></td>
+        </tr>
+        <tr>
+            <td>Gratitude</td>
+            <td>Brandon Lake</td>
+            <td>2021</td>
+            <td><a href="https://youtube.com/embed/dQdfs5S6jyA?si=9oRsMfWOaeeoHLUr">Watch here</a></td>
+        </tr>
+
+    </table>
 
 </body>
 </html>
